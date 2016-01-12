@@ -16,7 +16,7 @@ public class Primerjavagit {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo ");
-        asdfkljl
+        System.out.println("prueba");
         // TODO code application logic here
     }
     
